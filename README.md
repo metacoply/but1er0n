@@ -6,6 +6,6 @@
 
 </samp>
 
-  <img src="https://github.com/but1er0n/but1er0n/blob/main/1.png?raw=true"/>
+  <img src="https://github.com/but1er0n/but1er0n/blob/main/card.png?raw=true"/>
 
 </p>
