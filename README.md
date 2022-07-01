@@ -6,6 +6,6 @@
 
 </samp>
 
-  <img src="https://github.com/but1er0n/but1er0n/blob/main/card.png?raw=true" alt="Business Card" style="pointer-events: none;"/>
+  <img src="https://github.com/but1er0n/but1er0n/blob/main/card.png?raw=true" alt="Business Card" pointer-events="none"/>
 
 </p>
